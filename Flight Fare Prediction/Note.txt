@@ -1,8 +1,0 @@
-
-Steps Followed----------------------------------------------------
-
-01. The EDA, Model Training, Prediction and Evaluation was done on 
-    training data.
-
-02. The EDA steps have to be followed to the test data and used to
-    predict the fare prices.
