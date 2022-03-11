@@ -1,0 +1,23 @@
+Variable,Description,Datatype
+EmployeeID,Unique employee code,Numeric
+Attrition,Attrition flag,Nominal
+Age,Age of employee,Nominal
+TravelProfile,Status of travel in job profile,Nominal
+Department,Department of employee,Nominal
+HomeToWork,Distance between home to work,Numeric
+EducationField,Field of education of an employee,Nominal
+Gender,Gender of an employee,Nominal
+HourlnWeek,Work hours of an employee in a week,Numeric
+Involvement,Involvement of any employee in engagement activity organised by HR team. 5 highest | 1 Lowest,Ordinal
+WorklifeBalance,Work Life balance of an employee. 5 highest | 1 Lowest,Ordinal
+Designation,Employee designation,Ordinal
+JobSatisfaction,Score of employee opinion survey. 5 highest | 1 Lowest,Ordinal
+ESOPS,Do the employess owns company’s ESOPs  1 Means Yes and 0 Means No,Nominal
+NumCompaniesWorked,Total number of company employee had worked in past,Numeric
+OverTime,Is employee is eligible to be paid for overtime,Nominal
+SalaryHikelastYear,Increment percent in last cycle,Numeric
+WorkExperience,Total year of work experience,Numeric
+LastPromotion,Year since last promotion,Numeric
+CurrentProfile,Year since in current profile,Numeric
+MaritalStatus,Marital status of employee,Nominal
+MonthlyIncome,Gross monthly income of employee,Numeric

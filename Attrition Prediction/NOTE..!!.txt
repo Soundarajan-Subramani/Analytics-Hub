@@ -1,0 +1,7 @@
+
+Steps Followed---------------------------------------------------
+
+01. EDA was done on train_data.csv and clean data was stored as a
+    seperate file.
+
+02. Models were trained on and evaluated clean_train_data.
