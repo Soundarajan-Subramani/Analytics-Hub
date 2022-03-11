@@ -1,7 +1,0 @@
-
-For Your Information---------------------------------------------
-
-01. Dataset was taken from kaggle. Refer the link in the notebook
-    file in the repository.
-
-02. EDA, Model Training and Predictions are on the same file. 
